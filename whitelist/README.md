@@ -36,3 +36,4 @@
 |上海|[三零卫士](http://www.30wish.net)|2019年4月|9:30-17:30-5|[钉钉考勤规则说明](img/30wish.png)|
 |北京|[语知科技](http://http://yuzhinlp.com/)|2019年4月|9:00-18:00-5;上下班弹性半小时;午休1h;|[员工手册截图](img/yuzhi_nlp.png)|
 |北京|[北京优锘科技有限公司](http://www.uinnova.cn/)|2019年4月|9-6-5;弹性工作;午休一个钟;|[员工手册截图](img/uinnova.png)|
+|济南|[济南邻商网络科技有限公司](https://www.linshang.com/)|2019年1月|9-6-5;弹性工作;|[员工手册截图](img/jinanlinshang.png)|
